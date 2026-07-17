@@ -8,7 +8,7 @@
 
 <br/>
 
-![Open to Work](https://img.shields.io/badge/Open%20to-Open%20Source%20%2F%20Team%20Projects-7dd3fc?style=for-the-badge&logo=github&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to-Open%20Source%20%26%20Team%20Projects-7dd3fc?style=for-the-badge&logo=github&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=ShoaibKhanJ&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/ShoaibKhanJ?label=FOLLOWERS&style=for-the-badge&color=7dd3fc" alt="Followers"/>
@@ -91,7 +91,9 @@ const shoaibKhan = {
 
 **Cloud**
 
-![Skills](https://skillicons.dev/icons?i=aws,firebase,hostinger)
+![Skills](https://skillicons.dev/icons?i=aws,firebase)
+&nbsp;
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 <br/>
 
