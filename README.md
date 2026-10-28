@@ -1,163 +1,24 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7dd3fc&height=220&section=header&text=Shoaib%20Khan&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20%26%20Python%20Developer%20%7C%20CS%20Student&descAlignY=55&descSize=19" width="100%"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shoaibkj/) 
 
-<a href="https://github.com/ShoaibKhanJ">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Python+Developer;CS+Student+%40+Coursera;Founder+%40+Webica+Studio;Building+Web+Extensions+%26+Digital+Products;Open+to+Open+Source+Collaboration" alt="Typing SVG" />
-</a>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ShoaibKhanJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ShoaibKhanJ&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShoaibKhanJ&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ShoaibKhanJ&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![Open to Open Source](https://img.shields.io/badge/Open%20to-Open%20Source%20Work-7dd3fc?style=for-the-badge&logo=github&logoColor=white)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://komarev.com/ghpvc/?username=ShoaibKhanJ&color=7dd3fc&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/ShoaibKhanJ?label=FOLLOWERS&style=for-the-badge&color=7dd3fc" alt="Followers"/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ShoaibKhanJ&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=ShoaibKhanJ&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<br/>
-
-## 👤 About Me
-
-```ts
-const developer = {
-  name: "Shoaib Khan",
-  title: "Full Stack and Python Developer / CS Student",
-  education: "BS Computer Science — via Coursera",
-  company: "Founder @ Webica Studio",
-  founderOf: "Webica Studio — digital product studio (web extensions, websites, programs)",
-  currentFocus: ["Contributing to Open Source", "Gaining experience through internships"],
-  learning: ["Python — University of Michigan course (Coursera)"],
-  technologies: {
-    languages: ["Python", "JavaScript"],
-    frontend: ["Next.js", "HTML", "CSS", "JavaScript"],
-    backend: ["Flask", "Firebase", "Node.js"],
-    cloud: ["AWS", "Firebase", "Hostinger"],
-  },
-  certifications: [
-    "Programming for Everybody — University of Michigan (Coursera)",
-    "Prompt Engineering — Coursera",
-  ],
-  openTo: "Open Source Contributions",
-};
-```
-
-<br/>
-
-## 🎯 Current Goals
-
-- 🌱 Gain hands-on experience by contributing to open source
-- 💼 Land internships in software development
-- 🚀 Grow Webica Studio's product lineup
-
-<br/>
-
-## 📚 Currently Learning
-
-- [ ] Python — *Programming for Everybody*, University of Michigan (Coursera)
-
-<br/>
-
-## 🏆 Certifications
-
-- 🎓 Programming for Everybody — University of Michigan (Coursera)
-- 🎓 Prompt Engineering — Coursera
-
-<br/>
-
-## 🚀 Featured Projects
-
-### 📝 AetherWrite-AI
-
-> AI-powered tool to generate essays.
-
-| Layer      | Technology |
-|------------|------------|
-| Language   | Python     |
-| AI         | AI-driven essay generation |
-
-<a href="https://github.com/ShoaibKhanJ/AetherWrite-AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoaibKhanJ&repo=AetherWrite-AI&theme=default&border_color=7dd3fc&title_color=0F172A&text_color=334155&icon_color=7dd3fc" alt="AetherWrite-AI"/>
-</a>
-
-[🔗 Source Code](https://github.com/ShoaibKhanJ/AetherWrite-AI)
-
-<br/>
-
-### 💼 Portfolio
-
-> My personal portfolio website.
-
-| Layer      | Technology |
-|------------|------------|
-| Frontend   | HTML, CSS, JavaScript |
-| Hosting    | GitHub Pages |
-
-<a href="https://github.com/ShoaibKhanJ/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShoaibKhanJ&repo=Portfolio&theme=default&border_color=7dd3fc&title_color=0F172A&text_color=334155&icon_color=7dd3fc" alt="Portfolio"/>
-</a>
-
-[🌐 Live Demo](https://shoaibkhanj.github.io/Portfolio/) &nbsp;|&nbsp; [🔗 Source Code](https://github.com/ShoaibKhanJ/Portfolio)
-
-<br/>
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Skills](https://skillicons.dev/icons?i=python,js&theme=light)
-
-**Frontend**
-
-![Skills](https://skillicons.dev/icons?i=nextjs,html,css,js&theme=light)
-
-**Backend**
-
-![Skills](https://skillicons.dev/icons?i=flask,firebase,nodejs&theme=light)
-
-**Cloud**
-
-![Skills](https://skillicons.dev/icons?i=aws,firebase&theme=light)
-&nbsp;
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ShoaibKhanJ&show_icons=true&theme=default&border_color=7dd3fc&title_color=0F172A&icon_color=7dd3fc&text_color=334155" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibKhanJ&layout=compact&theme=default&border_color=7dd3fc&title_color=0F172A&text_color=334155" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=ShoaibKhanJ&theme=default&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=0F172A" alt="GitHub Streak"/>
-
-</div>
-
-### 🏅 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShoaibKhanJ&theme=flat&no-frame=true&no-bg=true&margin-w=10" alt="Trophies"/>
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShoaibKhanJ&theme=minimal&color=0F172A&line=7dd3fc&point=0F172A&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shoaibkj/)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
