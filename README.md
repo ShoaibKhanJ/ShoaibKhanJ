@@ -71,8 +71,6 @@ My technical interests include software development, artificial intelligence, au
 
 ## 📊 GitHub Stats
 
-> Replace `ShoaibKhanJ` below with your actual GitHub username.
-
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ShoaibKhanJ&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
