@@ -71,14 +71,14 @@ My technical interests include software development, artificial intelligence, au
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username.
+> Replace `ShoaibKhanJ` below with your actual GitHub username.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShoaibKhanJ&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShoaibKhanJ&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShoaibKhanJ&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
